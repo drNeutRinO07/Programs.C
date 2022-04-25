@@ -22,5 +22,6 @@ else{
 printf("Then the roots are: \n");    
 printf("x1= %f\n",(-b+r)/(2*a));
 printf("x2= %f\n",(-b-r)/(2*a));
+}
 return 0;
-}}
+}
